@@ -1,7 +1,7 @@
 # DecodeLabs Data Analytics Portfolio
 **Analyst:** Adesola Sobambo  
 **Role:** Data Analyst Intern @DecodeLabs  
-**Technical Stack:** SQL (SQLite) • Microsoft Excel • Microsoft Power BI • Markdown
+**Technical Stack:** SQL (SQLite) • Microsoft Excel • Microsoft Power BI •  Star Schema Data Model
 
 Welcome to my technical portfolio repository containing the end-to-end projects executed during my internship ecosystem at DecodeLabs. These projects demonstrate my ability to ingest messy datasets, ensure absolute data integrity, execute statistical analysis, and deliver business-ready insights for leadership.
 
@@ -11,7 +11,9 @@ Welcome to my technical portfolio repository containing the end-to-end projects 
 
 *   `📁 Project 1 Data Cleaning/`: Production-ready data pipelines, deduplication files, and categorical data validation workflows.
 *   `📁 Project 2 EDA Presentation/`: Advanced Exploratory Data Analysis, trend tracking metrics, and executive PowerPoint presentation decks.
-*   `📁 Project 3 SQL Assessments/`: *(Upcoming)* Optimized database querying libraries, including CTEs, Joins, and conditional data segmentation logic.
+*   `📁 Project 3 SQL Assessments/`: Optimized database querying libraries, including CTEs, Joins, and conditional data segmentation logic.
+*   `📁 Project 4 Data Visualization/`: Interactive Power BI dashboard business models, performance tracking metrics, and executive PDF briefing reports.
+
 
 ---
 
